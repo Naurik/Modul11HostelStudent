@@ -1,0 +1,7 @@
+c:\users\acer-pc\source\repos\Hostel\Hostel\bin\Debug\Hostel.exe.config
+c:\users\acer-pc\source\repos\Hostel\Hostel\bin\Debug\Hostel.exe
+c:\users\acer-pc\source\repos\Hostel\Hostel\bin\Debug\Hostel.pdb
+c:\users\acer-pc\source\repos\Hostel\Hostel\obj\Debug\Hostel.csprojAssemblyReference.cache
+c:\users\acer-pc\source\repos\Hostel\Hostel\obj\Debug\Hostel.csproj.CoreCompileInputs.cache
+c:\users\acer-pc\source\repos\Hostel\Hostel\obj\Debug\Hostel.exe
+c:\users\acer-pc\source\repos\Hostel\Hostel\obj\Debug\Hostel.pdb
